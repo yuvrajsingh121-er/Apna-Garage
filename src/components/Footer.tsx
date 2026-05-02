@@ -2,6 +2,7 @@ import * as React from "react";
 import { Link } from "react-router-dom";
 import { Facebook, Twitter, Instagram, Linkedin, Mail, Phone, MapPin } from "lucide-react";
 
+
 export const Footer = () => {
   return (
     <footer className="bg-primary text-surface-container-low pt-20 pb-10 px-6">
